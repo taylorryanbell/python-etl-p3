@@ -7,7 +7,7 @@
       2. In the ```Environment Variables``` window click the plus button and add a new record with the name of ```GOOGLE_APPLICATION_CREDENTIALS``` and set the value to the file path of the config file you added to your project
   4. Install the ```google-cloud-bigquery``` package via ```pip``` or the pycharm UI.
 
-# Example query
+# Example Query
 ```
 from google.cloud import bigquery;
 
