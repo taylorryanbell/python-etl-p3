@@ -1,3 +1,6 @@
+# pgsql.py
+# Connect to pgAdmin database
+
 import psycopg2
 from config import pgsql_config
 

@@ -1,4 +1,5 @@
-# SQL queries can be created here
+# sql.py
+# Create SQL queries to be run through pgAdmin database
 
 create_schema_and_table = ('''
     DROP SCHEMA IF EXISTS petl3 CASCADE;

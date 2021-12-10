@@ -1,3 +1,7 @@
+# Python ETL Project 3 (Big Query)
+# Taylor Bell
+# 12.10.21
+
 from google.cloud import bigquery
 import sql
 import pgsql
